@@ -108,6 +108,8 @@ color: forestgreen;
     text-transform: capitalize;
     color: white;
     text-align: center !important;
+    justify-items: center !important;
+    align-content: center !important;
    
 }
 
@@ -116,10 +118,9 @@ color: forestgreen;
 .container #coffee-type3 p {
     position: absolute;
     font-size: 1em;
-    padding-top: 30px;
-    text-transform: capitalize;
+    padding-top: 35px;
     color: white;
-    text-align: center;
+    text-align: justify;
     justify-items: center;
     align-content: center;
 
