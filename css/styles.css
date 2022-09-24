@@ -34,10 +34,11 @@ body{
 text-decoration: none;
 }
 
-#nav-list{
+  #nav-list{
     margin-top: 10px;
     color: maroon ;
 }
+
 
 #nav-list  a{
     text-align: center;
@@ -45,7 +46,7 @@ text-decoration: none;
 
 }
 
-#nav-list a span{
+#nav-list a {
     font-size: 1.8em;
 
 }
