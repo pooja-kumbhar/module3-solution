@@ -13,7 +13,7 @@ body{
 }
 
 #logo-img{
-    background-image: url("images/logo.png");
+    background-image: url("../images/logo.png");
     width: 150px;
     height:150px;
     margin: 10px 10px 10px 0px;
@@ -171,7 +171,7 @@ color: forestgreen;
 @media(min-width:1200px) and (max-width:2000px)
 {
 .container .jumbotron{
-        background: url("images//1200-Coffee.png") no-repeat;
+        background: url("../images/1200-Coffee.png") no-repeat;
         height: 675px;
     
     }
@@ -183,7 +183,7 @@ color: forestgreen;
 
 @media(min-width:992px) and (max-width:1199px) {
 .container .jumbotron {
-        background: url("images//1200-Coffee.png") no-repeat;
+        background: url("../images/1200-Coffee.png") no-repeat;
         height: 558px;
        
     }
@@ -195,7 +195,7 @@ color: forestgreen;
 
 @media(min-width:768px) and (max-width:991px) {
 .container .jumbotron {
-        background: url("images//1200-Coffee.png") no-repeat;
+        background: url("../images/1200-Coffee.png") no-repeat;
         height: 432px;
        
     }
